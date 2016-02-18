@@ -1,0 +1,22 @@
+Cake
++----------------------------------------------------------------------------+
+
+  Restores 1 Food Point per use and it can be used 6 times. The buckets are
+not destroyed in the process.
+
+ ====================
+|      |      |      |                01 - Milk
+|  01  |  01  |  01  |                02 - Sugar
+|      |      |      |                03 - Chicken Egg
+|------|------|------|        ======  04 - Wheat
+|      |      |      |       |      | 05 - Cake
+|  02  |  03  |  02  | --->  |  05  |
+|      |      |      |       |      |
+|------|------|------|        ======
+|      |      |      |
+|  04  |  04  |  04  |
+|      |      |      |
+ ====================
+
+
+lifted from http://www.gamefaqs.com/pc/606524-minecraft/faqs/63651 for joke/educational purposes.
